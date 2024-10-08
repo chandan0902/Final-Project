@@ -1,0 +1,6 @@
+
+Steps to be followed:
+1. Create a GitHub repository 
+2. Add a Java program to the repository
+3. Create a freestyle build job in Jenkins
+4. Build the Java program with Jenkin
